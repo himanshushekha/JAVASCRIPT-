@@ -1,0 +1,24 @@
+*
+{
+
+margin:0;
+padding:0;
+
+
+}
+h1{
+font-family:sans-serif;
+text-align:center;
+margin-top:150px;
+margin-bottom: 150PX;
+font-size:150px;
+font-weight:800;
+font-style: normal;
+color:orange;
+background-image: url(https://media.giphy.com/media/3o7buijTqhjxjbEqjK/giphy.gif);
+
+background-position:center;
+
+
+
+}

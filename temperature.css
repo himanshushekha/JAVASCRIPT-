@@ -1,0 +1,30 @@
+body{
+    padding:50px 100px;
+    background-color:chocolate;
+    background-image: url(https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.istockphoto.com%2Fid%2F819556270%2Fphoto%2Fthermometer-on-a-green-nature-background-and-temperature-measuring-environment-concept.jpg%3Fs%3D612x612%26w%3D0%26k%3D20%26c%3DcZ1I7hgWWTswzNoAOeIek6AYmD3I62FvMJlqCHtlCmE%3D&tbnid=d5XFOF6U6iAHGM&vet=12ahUKEwiGiNCQw8T-AhVWG7cAHfynB4gQMygDegUIARDvAQ..i&imgrefurl=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Ftemperature-scale-conversion&docid=SWntIOhBbS0gJM&w=612&h=408&q=temperature%20converter%20pic&ved=2ahUKEwiGiNCQw8T-AhVWG7cAHfynB4gQMygDegUIARDvAQ);
+}
+h1{
+    text-align: center;
+}
+#container
+{
+    text-align:center;  
+    background-color:darkkhaki;
+    padding:78px;
+}
+.input-div
+{
+    display:inline-block;
+}
+ .inp{
+    padding:5px 10px;
+    margin:10px;
+    font-size:30px;font-weight:bold;
+    width:250px;
+    text-align:center;
+}
+ 
+label{
+    font-size:23px;
+    color:green;
+}
